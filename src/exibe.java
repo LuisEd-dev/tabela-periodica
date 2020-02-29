@@ -100,7 +100,7 @@ public class exibe extends javax.swing.JFrame {
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
         // TODO add your handling code here:
-        lblSigla.setText(sigla); lblNome.setText(nome); lblNumero.setText(String.valueOf(numero)); lblPeso.setText(String.valueOf(peso));
+        lblSigla.setText(sigla); lblNome.setText(nome); lblNumero.setText(String.valueOf(numero)); lblPeso.setText(String.valueOf(peso) + " u");
         this.getContentPane().setBackground(Cor);
     }//GEN-LAST:event_formWindowOpened
 
