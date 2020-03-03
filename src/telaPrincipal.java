@@ -2335,12 +2335,12 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum80.setText("20");
+        lblNum80.setText("49");
 
         lblSigla80.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla80.setText("Ca");
+        lblSigla80.setText("In");
 
-        lblNome80.setText("Cálcio");
+        lblNome80.setText("Índio");
 
         javax.swing.GroupLayout jPanel80Layout = new javax.swing.GroupLayout(jPanel80);
         jPanel80.setLayout(jPanel80Layout);
@@ -2349,12 +2349,8 @@ public class telaPrincipal extends javax.swing.JFrame {
             .addGroup(jPanel80Layout.createSequentialGroup()
                 .addComponent(lblNum80)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(lblSigla80)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel80Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome80)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addComponent(lblSigla80, javax.swing.GroupLayout.DEFAULT_SIZE, 40, Short.MAX_VALUE))
+            .addComponent(lblNome80, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel80Layout.setVerticalGroup(
             jPanel80Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -2543,12 +2539,12 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum85.setText("20");
+        lblNum85.setText("50");
 
         lblSigla85.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla85.setText("Ca");
+        lblSigla85.setText("Sn");
 
-        lblNome85.setText("Cálcio");
+        lblNome85.setText("Estanho");
 
         javax.swing.GroupLayout jPanel85Layout = new javax.swing.GroupLayout(jPanel85);
         jPanel85.setLayout(jPanel85Layout);
@@ -2558,11 +2554,8 @@ public class telaPrincipal extends javax.swing.JFrame {
                 .addComponent(lblNum85)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(lblSigla85)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel85Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome85)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addGap(0, 20, Short.MAX_VALUE))
+            .addComponent(lblNome85, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel85Layout.setVerticalGroup(
             jPanel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -2752,12 +2745,12 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum92.setText("20");
+        lblNum92.setText("51");
 
         lblSigla92.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla92.setText("Ca");
+        lblSigla92.setText("Sb");
 
-        lblNome92.setText("Cálcio");
+        lblNome92.setText("Antimônio");
 
         javax.swing.GroupLayout jPanel92Layout = new javax.swing.GroupLayout(jPanel92);
         jPanel92.setLayout(jPanel92Layout);
@@ -2766,12 +2759,8 @@ public class telaPrincipal extends javax.swing.JFrame {
             .addGroup(jPanel92Layout.createSequentialGroup()
                 .addComponent(lblNum92)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(lblSigla92)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel92Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome92)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addComponent(lblSigla92, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addComponent(lblNome92, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
         );
         jPanel92Layout.setVerticalGroup(
             jPanel92Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -2960,12 +2949,12 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum97.setText("20");
+        lblNum97.setText("52");
 
         lblSigla97.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla97.setText("Ca");
+        lblSigla97.setText("Te");
 
-        lblNome97.setText("Cálcio");
+        lblNome97.setText("Telúrio");
 
         javax.swing.GroupLayout jPanel97Layout = new javax.swing.GroupLayout(jPanel97);
         jPanel97.setLayout(jPanel97Layout);
@@ -2974,12 +2963,8 @@ public class telaPrincipal extends javax.swing.JFrame {
             .addGroup(jPanel97Layout.createSequentialGroup()
                 .addComponent(lblNum97)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(lblSigla97)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel97Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome97)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addComponent(lblSigla97, javax.swing.GroupLayout.DEFAULT_SIZE, 40, Short.MAX_VALUE))
+            .addComponent(lblNome97, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel97Layout.setVerticalGroup(
             jPanel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -3168,26 +3153,22 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum102.setText("20");
+        lblNum102.setText("53");
 
         lblSigla102.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla102.setText("Ca");
+        lblSigla102.setText("I");
 
-        lblNome102.setText("Cálcio");
+        lblNome102.setText("Iodo");
 
         javax.swing.GroupLayout jPanel102Layout = new javax.swing.GroupLayout(jPanel102);
         jPanel102.setLayout(jPanel102Layout);
         jPanel102Layout.setHorizontalGroup(
-            jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
             .addGroup(jPanel102Layout.createSequentialGroup()
                 .addComponent(lblNum102)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(lblSigla102)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel102Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome102)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(lblSigla102, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE))
+            .addComponent(lblNome102, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel102Layout.setVerticalGroup(
             jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -3337,12 +3318,12 @@ public class telaPrincipal extends javax.swing.JFrame {
             }
         });
 
-        lblNum107.setText("20");
+        lblNum107.setText("54");
 
         lblSigla107.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        lblSigla107.setText("Ca");
+        lblSigla107.setText("Xe");
 
-        lblNome107.setText("Cálcio");
+        lblNome107.setText("Xenônio");
 
         javax.swing.GroupLayout jPanel107Layout = new javax.swing.GroupLayout(jPanel107);
         jPanel107.setLayout(jPanel107Layout);
@@ -3352,11 +3333,8 @@ public class telaPrincipal extends javax.swing.JFrame {
                 .addComponent(lblNum107)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(lblSigla107)
-                .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(jPanel107Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(lblNome107)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addGap(0, 21, Short.MAX_VALUE))
+            .addComponent(lblNome107, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel107Layout.setVerticalGroup(
             jPanel107Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -6151,11 +6129,12 @@ public class telaPrincipal extends javax.swing.JFrame {
         // TODO add your handling code here:
         String sigla = lblSigla79.getText(); String nome = lblNome79.getText(); int numero = Integer.valueOf(lblNum79.getText());  Double peso = 69.723; Color Cor = jPanel79.getBackground();
         abre_tela(numero, sigla, nome, peso, Cor);
-        
     }//GEN-LAST:event_jPanel79MouseClicked
 
     private void jPanel80MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel80MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla80.getText(); String nome = lblNome80.getText(); int numero = Integer.valueOf(lblNum80.getText());  Double peso = 114.818; Color Cor = jPanel80.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel80MouseClicked
 
     private void jPanel81MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel81MouseClicked
@@ -6180,6 +6159,8 @@ public class telaPrincipal extends javax.swing.JFrame {
 
     private void jPanel85MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel85MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla85.getText(); String nome = lblNome85.getText(); int numero = Integer.valueOf(lblNum85.getText());  Double peso = 118.71; Color Cor = jPanel85.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel85MouseClicked
 
     private void jPanel86MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel86MouseClicked
@@ -6204,6 +6185,8 @@ public class telaPrincipal extends javax.swing.JFrame {
 
     private void jPanel92MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel92MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla92.getText(); String nome = lblNome92.getText(); int numero = Integer.valueOf(lblNum92.getText());  Double peso = 121.76; Color Cor = jPanel92.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel92MouseClicked
 
     private void jPanel93MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel93MouseClicked
@@ -6228,6 +6211,8 @@ public class telaPrincipal extends javax.swing.JFrame {
 
     private void jPanel97MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel97MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla97.getText(); String nome = lblNome97.getText(); int numero = Integer.valueOf(lblNum97.getText());  Double peso = 127.6; Color Cor = jPanel97.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel97MouseClicked
 
     private void jPanel98MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel98MouseClicked
@@ -6252,6 +6237,8 @@ public class telaPrincipal extends javax.swing.JFrame {
 
     private void jPanel102MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel102MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla102.getText(); String nome = lblNome102.getText(); int numero = Integer.valueOf(lblNum102.getText());  Double peso = 126.90447; Color Cor = jPanel102.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel102MouseClicked
 
     private void jPanel103MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel103MouseClicked
@@ -6270,6 +6257,8 @@ public class telaPrincipal extends javax.swing.JFrame {
 
     private void jPanel107MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel107MouseClicked
         // TODO add your handling code here:
+        String sigla = lblSigla107.getText(); String nome = lblNome107.getText(); int numero = Integer.valueOf(lblNum107.getText());  Double peso = 131.293; Color Cor = jPanel107.getBackground();
+        abre_tela(numero, sigla, nome, peso, Cor);
     }//GEN-LAST:event_jPanel107MouseClicked
 
     private void jPanel108MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel108MouseClicked

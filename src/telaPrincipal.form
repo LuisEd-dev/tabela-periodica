@@ -3664,14 +3664,9 @@
               <Group type="102" alignment="0" attributes="0">
                   <Component id="lblNum80" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblSigla80" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="lblSigla80" pref="40" max="32767" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome80" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome80" alignment="1" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -3694,7 +3689,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum80">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="49"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla80">
@@ -3702,12 +3697,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="In"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome80">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="&#xcd;ndio"/>
           </Properties>
         </Component>
       </SubComponents>
@@ -4016,13 +4011,9 @@
                   <Component id="lblNum85" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="lblSigla85" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="20" max="32767" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome85" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome85" alignment="1" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -4045,7 +4036,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum85">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="50"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla85">
@@ -4053,12 +4044,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="Sn"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome85">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="Estanho"/>
           </Properties>
         </Component>
       </SubComponents>
@@ -4367,14 +4358,9 @@
               <Group type="102" alignment="0" attributes="0">
                   <Component id="lblNum92" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblSigla92" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="lblSigla92" max="32767" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome92" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome92" alignment="1" pref="58" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -4397,7 +4383,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum92">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="51"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla92">
@@ -4405,12 +4391,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="Sb"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome92">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="Antim&#xf4;nio"/>
           </Properties>
         </Component>
       </SubComponents>
@@ -4718,14 +4704,9 @@
               <Group type="102" alignment="0" attributes="0">
                   <Component id="lblNum97" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblSigla97" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="lblSigla97" pref="40" max="32767" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome97" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome97" alignment="1" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -4748,7 +4729,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum97">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="52"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla97">
@@ -4756,12 +4737,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="Te"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome97">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="Tel&#xfa;rio"/>
           </Properties>
         </Component>
       </SubComponents>
@@ -5065,18 +5046,13 @@
 
       <Layout>
         <DimensionLayout dim="0">
-          <Group type="103" groupAlignment="0" attributes="0">
-              <Group type="102" alignment="0" attributes="0">
+          <Group type="103" groupAlignment="1" attributes="0">
+              <Group type="102" attributes="0">
                   <Component id="lblNum102" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblSigla102" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="lblSigla102" min="-2" pref="36" max="-2" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome102" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome102" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -5099,7 +5075,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum102">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="53"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla102">
@@ -5107,12 +5083,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="I"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome102">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="Iodo"/>
           </Properties>
         </Component>
       </SubComponents>
@@ -5354,13 +5330,9 @@
                   <Component id="lblNum107" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="lblSigla107" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="21" max="32767" attributes="0"/>
               </Group>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
-                  <Component id="lblNome107" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
-              </Group>
+              <Component id="lblNome107" alignment="1" max="32767" attributes="0"/>
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -5383,7 +5355,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="lblNum107">
           <Properties>
-            <Property name="text" type="java.lang.String" value="20"/>
+            <Property name="text" type="java.lang.String" value="54"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblSigla107">
@@ -5391,12 +5363,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Ca"/>
+            <Property name="text" type="java.lang.String" value="Xe"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblNome107">
           <Properties>
-            <Property name="text" type="java.lang.String" value="C&#xe1;lcio"/>
+            <Property name="text" type="java.lang.String" value="Xen&#xf4;nio"/>
           </Properties>
         </Component>
       </SubComponents>
